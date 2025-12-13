@@ -1,2 +1,1 @@
-# scroll-trigerr
-scroll-trigerr
+A fully animated, scroll-based website designed to provide an immersive user experience. Animations were implemented using GSAP, enabling smooth, dynamic transitions and interactive visual effects throughout the site. Lenis was integrated to achieve seamless, high-performance scrolling, enhancing the fluidity of navigation and creating a polished, modern feel. The site combines engaging animations with intuitive scroll-driven interactions, resulting in a visually compelling and highly interactive web experience
